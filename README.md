@@ -2,7 +2,7 @@
 
 This repository contains a simple example of a modal popup in a web page. It uses HTML, CSS, and JavaScript to create a modal that can be opened and closed by clicking buttons and overlay, as well as by pressing the 'Escape' key.
 
-#Features
+##Features
 Open and close the modal by clicking buttons.
 Close the modal by clicking the overlay.
 Close the modal by pressing the 'Escape' key on your keyboard.
@@ -22,9 +22,9 @@ Feel free to modify and customize the code to suit your own projects.
 Demo
 You can see a live demo of the modal in action here.
 
-#Contributing
+##Contributing
 If you'd like to contribute to this project, please open an issue or create a pull request with your improvements. Your contributions are welcome!
 
 
-#Acknowledgments
+##Acknowledgments
 This example was created based on a tutorial or code snippet. The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtman
